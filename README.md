@@ -76,5 +76,18 @@ Then enter details for the limit orders.
 2025-10-04 08:59:18,770 - ERROR - Market order error: APIError(code=-2010): Account has insufficient balance for requested action.
 ```
  
- 
-
+6.Project Structure
+```bash
+[project_root]/
+│
+├── src/
+│   ├── market_orders.py       # Market order logic
+│   ├── limit_orders.py        # Limit order logic
+│   ├── bot.log                # Logs of orders, errors, executions
+│   └── advanced/
+│       ├── oco.py  
+│       └── twap.py        
+│                 
+├── README.md                  # Project documentation
+└── report.pdf                 # Screenshots, analysis, explanations
+```
