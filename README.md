@@ -41,3 +41,29 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
+3. Setup : 
+- Obtain **Binance API Key** and **API Secret** from **https://testnet.binance.vision**.
+
+- Create a .env file in /src:
+
+```bash
+API_KEY=your_api_key_here
+API_SECRET=your_api_secret_here
+```
+
+4. Usage: 
+- **Market Order**
+
+```bash
+python market_orders.py
+```
+- Now enter the details for market order
+
+- **Limit Order**
+
+```bash
+python limit_orders.py
+```
+ 
+ 
+
