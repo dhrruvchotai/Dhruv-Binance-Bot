@@ -1,6 +1,6 @@
 # Binance Futures Order Bot
 
-A **CLI-based trading bot** supporting limit and market orderswith robust **logging feature, and documentation**.  
+A **CLI-based trading bot** supporting limit and market orders with robust **logging feature, and documentation**.  
 
 > **Note:** Advanced features like TWAP and OCO are planned but not yet implemented.
 
@@ -58,13 +58,14 @@ API_SECRET=your_api_secret_here
 ```bash
 python market_orders.py
 ```
-Then enter the details for market order
+Then enter the details for market order.
 
 - **Limit Order**
 
 ```bash
 python limit_orders.py
 ```
+Then enter details for the limit orders.
 
 
 5. Logging
