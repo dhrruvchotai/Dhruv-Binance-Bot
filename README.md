@@ -8,7 +8,7 @@ A **CLI-based trading bot** supporting limit and market orders with robust **log
 
 ## Features
 
-### ✅ Core Orders (Implemented)
+### ✅ Core Orders
 - **Market Orders** – Buy or sell instantly at the current market price.  
 - **Limit Orders** – Buy or sell at a specific price.  
 
@@ -23,7 +23,7 @@ A **CLI-based trading bot** supporting limit and market orders with robust **log
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/[your_username]/[your_name]-binance-bot.git
+git clone https://github.com/dhrruvchotai/Dhruv-binance-bot.git
 ```
 
 2. Now follow this commands:
