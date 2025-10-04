@@ -26,7 +26,7 @@ A **CLI-based trading bot** supporting limit and market orderswith robust **logg
 git clone https://github.com/[your_username]/[your_name]-binance-bot.git
 ```
 
-1. Now follow this commands:
+2. Now follow this commands:
 
 ```bash
 cd Dhruv-Binance-Bot
