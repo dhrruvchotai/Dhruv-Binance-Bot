@@ -1,6 +1,6 @@
 # Binance Futures Order Bot
 
-A **CLI-based trading bot** for **Binance USDT-M Futures**, supporting multiple order types with robust **validation, logging, and documentation**.  
+A **CLI-based trading bot** supporting limit and market orderswith robust **logging feature, and documentation**.  
 
 > **Note:** Advanced features like TWAP and OCO are planned but not yet implemented.
 
